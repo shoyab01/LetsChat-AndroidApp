@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892990374379",
+    "firebase_url": "https://lets-chat-c4280.firebaseio.com",
+    "project_id": "lets-chat-c4280",
+    "storage_bucket": "lets-chat-c4280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892990374379:android:d4a9722290a70511b119ae",
+        "android_client_info": {
+          "package_name": "com.flutter.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892990374379-iehu1k3di969okk0nv91kuvmcsbnv2ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3hDkSBqWYAKlup2itg1rvquanUK66Aqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892990374379-iehu1k3di969okk0nv91kuvmcsbnv2ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
